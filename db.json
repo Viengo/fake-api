@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "completed": false,
+      "id": 1,
+      "title": "My first task",
+      "userId": 1
+    }
+  ]
+}
